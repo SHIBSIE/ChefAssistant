@@ -1,1 +1,38 @@
-I am recipes
+{
+  "recipes": [
+    {
+      "name": "Spaghetti Bolognese",
+      "ingredients": [
+        { "item": "Spaghetti", "quantity": "200g" },
+        { "item": "Ground Beef", "quantity": "300g" },
+        { "item": "Tomato Sauce", "quantity": "2 cups" },
+        { "item": "Onion", "quantity": "1, chopped" },
+        { "item": "Garlic", "quantity": "2 cloves, minced" }
+      ],
+      "instructions": [
+        "Boil spaghetti according to package instructions.",
+        "In a pan, sauté onion and garlic until fragrant.",
+        "Add ground beef and cook until browned.",
+        "Stir in tomato sauce and simmer for 10 minutes.",
+        "Serve sauce over spaghetti."
+      ]
+    },
+    {
+      "name": "Pancakes",
+      "ingredients": [
+        { "item": "Flour", "quantity": "1 cup" },
+        { "item": "Milk", "quantity": "1 cup" },
+        { "item": "Egg", "quantity": "1" },
+        { "item": "Sugar", "quantity": "2 tbsp" },
+        { "item": "Baking Powder", "quantity": "1 tsp" }
+      ],
+      "instructions": [
+        "In a bowl, mix flour, sugar, and baking powder.",
+        "Whisk in milk and egg until smooth.",
+        "Heat a non-stick pan and pour batter to form pancakes.",
+        "Cook until bubbles form, then flip and cook the other side.",
+        "Serve with syrup or toppings of choice."
+      ]
+    }
+  ]
+}
