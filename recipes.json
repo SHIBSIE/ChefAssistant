@@ -1,7 +1,7 @@
 {
   "recipes": [
     {
-      "name": "Spaghetti Bolognese",
+      "name": "Spaghetti",
       "ingredients": [
         { "item": "Spaghetti", "quantity": "200g" },
         { "item": "Ground Beef", "quantity": "300g" },
