@@ -1,0 +1,1 @@
+void chef_init_styles(void);

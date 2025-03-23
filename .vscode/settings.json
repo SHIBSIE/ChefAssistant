@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "lvgl_setup.h": "c",
+        "event_groups.h": "c",
+        "lv_st7735.h": "c",
+        "chef_styles.h": "c",
+        "chef_startup.h": "c",
+        "chef_button.h": "c",
+        "gpio.h": "c",
+        "stdio.h": "c",
+        "lvgl.h": "c",
+        "freertos.h": "c",
+        "chef_client.h": "c",
+        "esp_task_wdt.h": "c",
+        "esp_log.h": "c",
+        "gptimer.h": "c",
+        "chef_recipes.h": "c",
+        "chef_ingredients.h": "c",
+        "nvs_flash.h": "c",
+        "hx711.h": "c",
+        "task.h": "c",
+        "esp_timer.h": "c",
+        "chef_steps.h": "c"
+    }
+}
